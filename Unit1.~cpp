@@ -217,7 +217,10 @@ void __fastcall TForm1::Oprogrmaie1Click(TObject *Sender)
 
 void __fastcall TForm1::LInkdostrony1Click(TObject *Sender)
 {
-   ShellExecute(NULL,"open", "http://google.com", NULL, NULL, SW_SHOWNORMAL);
+   ShellExecute(NULL,"open", "http://damian-cwykiel-landingpage-co-uk.stackstaging.com/#projects",
+   NULL, NULL, SW_SHOWNORMAL);
 }
 //---------------------------------------------------------------------------
+
+
 
