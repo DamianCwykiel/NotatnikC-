@@ -35,10 +35,8 @@ __published:	// IDE-managed Components
         TMenuItem *LInkdostrony1;
         TOpenDialog *OpenDialog1;
         TSaveDialog *SaveDialog1;
-        TFontDialog *FontDialog1;
-        TLabel *Label1;
         TMemo *tresc;
-        TLabel *Label2;
+        TFontDialog *FontDialog1;
         void __fastcall TekstChange(TObject *Sender);
         void __fastcall Otwrz1Click(TObject *Sender);
         void __fastcall Zapiszjako1Click(TObject *Sender);
