@@ -27,7 +27,8 @@ object Form1: TForm1
     Font.Name = 'Arial Narrow'
     Font.Style = []
     Lines.Strings = (
-      '  Hallo/Czesc!')
+      'Hallo!'
+      'Let`s start!')
     ParentFont = False
     ScrollBars = ssVertical
     TabOrder = 0
